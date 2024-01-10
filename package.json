@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "^21.2.0",
+    "xml-parser": "^1.2.1"
+  }
+}
